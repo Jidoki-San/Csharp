@@ -1,0 +1,11 @@
+C:\Users\Guilherme\Documents\GitHub\Csharp\Aula_01\Primeiro\Primeiro\bin\Debug\netcoreapp2.1\Primeiro.deps.json
+C:\Users\Guilherme\Documents\GitHub\Csharp\Aula_01\Primeiro\Primeiro\bin\Debug\netcoreapp2.1\Primeiro.runtimeconfig.json
+C:\Users\Guilherme\Documents\GitHub\Csharp\Aula_01\Primeiro\Primeiro\bin\Debug\netcoreapp2.1\Primeiro.runtimeconfig.dev.json
+C:\Users\Guilherme\Documents\GitHub\Csharp\Aula_01\Primeiro\Primeiro\bin\Debug\netcoreapp2.1\Primeiro.dll
+C:\Users\Guilherme\Documents\GitHub\Csharp\Aula_01\Primeiro\Primeiro\bin\Debug\netcoreapp2.1\Primeiro.pdb
+C:\Users\Guilherme\Documents\GitHub\Csharp\Aula_01\Primeiro\Primeiro\obj\Debug\netcoreapp2.1\Primeiro.csprojAssemblyReference.cache
+C:\Users\Guilherme\Documents\GitHub\Csharp\Aula_01\Primeiro\Primeiro\obj\Debug\netcoreapp2.1\Primeiro.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Documents\GitHub\Csharp\Aula_01\Primeiro\Primeiro\obj\Debug\netcoreapp2.1\Primeiro.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Documents\GitHub\Csharp\Aula_01\Primeiro\Primeiro\obj\Debug\netcoreapp2.1\Primeiro.AssemblyInfo.cs
+C:\Users\Guilherme\Documents\GitHub\Csharp\Aula_01\Primeiro\Primeiro\obj\Debug\netcoreapp2.1\Primeiro.dll
+C:\Users\Guilherme\Documents\GitHub\Csharp\Aula_01\Primeiro\Primeiro\obj\Debug\netcoreapp2.1\Primeiro.pdb
