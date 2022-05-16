@@ -1,0 +1,11 @@
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_02\Course_exemple02\Course_exemple02\bin\Debug\netcoreapp2.1\Course_exemple02.deps.json
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_02\Course_exemple02\Course_exemple02\bin\Debug\netcoreapp2.1\Course_exemple02.runtimeconfig.json
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_02\Course_exemple02\Course_exemple02\bin\Debug\netcoreapp2.1\Course_exemple02.runtimeconfig.dev.json
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_02\Course_exemple02\Course_exemple02\bin\Debug\netcoreapp2.1\Course_exemple02.dll
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_02\Course_exemple02\Course_exemple02\bin\Debug\netcoreapp2.1\Course_exemple02.pdb
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_02\Course_exemple02\Course_exemple02\obj\Debug\netcoreapp2.1\Course_exemple02.csprojAssemblyReference.cache
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_02\Course_exemple02\Course_exemple02\obj\Debug\netcoreapp2.1\Course_exemple02.csproj.CoreCompileInputs.cache
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_02\Course_exemple02\Course_exemple02\obj\Debug\netcoreapp2.1\Course_exemple02.AssemblyInfoInputs.cache
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_02\Course_exemple02\Course_exemple02\obj\Debug\netcoreapp2.1\Course_exemple02.AssemblyInfo.cs
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_02\Course_exemple02\Course_exemple02\obj\Debug\netcoreapp2.1\Course_exemple02.dll
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_02\Course_exemple02\Course_exemple02\obj\Debug\netcoreapp2.1\Course_exemple02.pdb
