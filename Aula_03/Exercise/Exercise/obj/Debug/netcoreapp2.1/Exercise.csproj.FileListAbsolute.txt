@@ -1,0 +1,11 @@
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_03\Exercise\Exercise\bin\Debug\netcoreapp2.1\Exercise.deps.json
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_03\Exercise\Exercise\bin\Debug\netcoreapp2.1\Exercise.runtimeconfig.json
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_03\Exercise\Exercise\bin\Debug\netcoreapp2.1\Exercise.runtimeconfig.dev.json
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_03\Exercise\Exercise\bin\Debug\netcoreapp2.1\Exercise.dll
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_03\Exercise\Exercise\bin\Debug\netcoreapp2.1\Exercise.pdb
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_03\Exercise\Exercise\obj\Debug\netcoreapp2.1\Exercise.csprojAssemblyReference.cache
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_03\Exercise\Exercise\obj\Debug\netcoreapp2.1\Exercise.csproj.CoreCompileInputs.cache
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_03\Exercise\Exercise\obj\Debug\netcoreapp2.1\Exercise.AssemblyInfoInputs.cache
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_03\Exercise\Exercise\obj\Debug\netcoreapp2.1\Exercise.AssemblyInfo.cs
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_03\Exercise\Exercise\obj\Debug\netcoreapp2.1\Exercise.dll
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_03\Exercise\Exercise\obj\Debug\netcoreapp2.1\Exercise.pdb
