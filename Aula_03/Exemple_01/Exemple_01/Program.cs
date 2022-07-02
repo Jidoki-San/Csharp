@@ -24,8 +24,12 @@ namespace Exemple_01
             Console.WriteLine(saldo.ToString("F2"));
             // .ToString("F") -> We use the "F" inside the ToString to determines the number of decimal places that can enter the console screen
             Console.WriteLine(saldo.ToString("F4"));
+<<<<<<< HEAD
             Console.WriteLine(saldo.ToString("F4"));
 
+=======
+            Console.WriteLine(saldo.ToString("F4", CultureInfo.InvariantCulture));
+>>>>>>> 3fd5687642e8ccdc06c13baa19e653d0518b9e59
         }
     }
 }
