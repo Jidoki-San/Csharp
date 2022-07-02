@@ -1,0 +1,11 @@
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_03\Exemple_01\Exemple_01\bin\Debug\netcoreapp2.1\Exemple_01.deps.json
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_03\Exemple_01\Exemple_01\bin\Debug\netcoreapp2.1\Exemple_01.runtimeconfig.json
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_03\Exemple_01\Exemple_01\bin\Debug\netcoreapp2.1\Exemple_01.runtimeconfig.dev.json
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_03\Exemple_01\Exemple_01\bin\Debug\netcoreapp2.1\Exemple_01.dll
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_03\Exemple_01\Exemple_01\bin\Debug\netcoreapp2.1\Exemple_01.pdb
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_03\Exemple_01\Exemple_01\obj\Debug\netcoreapp2.1\Exemple_01.csprojAssemblyReference.cache
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_03\Exemple_01\Exemple_01\obj\Debug\netcoreapp2.1\Exemple_01.csproj.CoreCompileInputs.cache
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_03\Exemple_01\Exemple_01\obj\Debug\netcoreapp2.1\Exemple_01.AssemblyInfoInputs.cache
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_03\Exemple_01\Exemple_01\obj\Debug\netcoreapp2.1\Exemple_01.AssemblyInfo.cs
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_03\Exemple_01\Exemple_01\obj\Debug\netcoreapp2.1\Exemple_01.dll
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_03\Exemple_01\Exemple_01\obj\Debug\netcoreapp2.1\Exemple_01.pdb
