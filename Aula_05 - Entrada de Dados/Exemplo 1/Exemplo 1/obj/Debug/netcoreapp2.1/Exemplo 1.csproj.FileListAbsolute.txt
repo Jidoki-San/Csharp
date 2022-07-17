@@ -1,0 +1,11 @@
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_05 - Entrada de Dados\Exemplo 1\Exemplo 1\obj\Debug\netcoreapp2.1\Exemplo 1.csprojAssemblyReference.cache
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_05 - Entrada de Dados\Exemplo 1\Exemplo 1\obj\Debug\netcoreapp2.1\Exemplo 1.csproj.CoreCompileInputs.cache
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_05 - Entrada de Dados\Exemplo 1\Exemplo 1\obj\Debug\netcoreapp2.1\Exemplo 1.AssemblyInfoInputs.cache
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_05 - Entrada de Dados\Exemplo 1\Exemplo 1\obj\Debug\netcoreapp2.1\Exemplo 1.AssemblyInfo.cs
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_05 - Entrada de Dados\Exemplo 1\Exemplo 1\bin\Debug\netcoreapp2.1\Exemplo 1.deps.json
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_05 - Entrada de Dados\Exemplo 1\Exemplo 1\bin\Debug\netcoreapp2.1\Exemplo 1.runtimeconfig.json
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_05 - Entrada de Dados\Exemplo 1\Exemplo 1\bin\Debug\netcoreapp2.1\Exemplo 1.runtimeconfig.dev.json
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_05 - Entrada de Dados\Exemplo 1\Exemplo 1\bin\Debug\netcoreapp2.1\Exemplo 1.dll
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_05 - Entrada de Dados\Exemplo 1\Exemplo 1\bin\Debug\netcoreapp2.1\Exemplo 1.pdb
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_05 - Entrada de Dados\Exemplo 1\Exemplo 1\obj\Debug\netcoreapp2.1\Exemplo 1.dll
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_05 - Entrada de Dados\Exemplo 1\Exemplo 1\obj\Debug\netcoreapp2.1\Exemplo 1.pdb

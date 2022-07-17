@@ -1,0 +1,11 @@
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_05 - Entrada de Dados\Exercício de Fixação\Exercício de Fixação\bin\Debug\netcoreapp2.1\Exercício de Fixação.deps.json
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_05 - Entrada de Dados\Exercício de Fixação\Exercício de Fixação\bin\Debug\netcoreapp2.1\Exercício de Fixação.runtimeconfig.json
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_05 - Entrada de Dados\Exercício de Fixação\Exercício de Fixação\bin\Debug\netcoreapp2.1\Exercício de Fixação.runtimeconfig.dev.json
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_05 - Entrada de Dados\Exercício de Fixação\Exercício de Fixação\bin\Debug\netcoreapp2.1\Exercício de Fixação.dll
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_05 - Entrada de Dados\Exercício de Fixação\Exercício de Fixação\bin\Debug\netcoreapp2.1\Exercício de Fixação.pdb
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_05 - Entrada de Dados\Exercício de Fixação\Exercício de Fixação\obj\Debug\netcoreapp2.1\Exercício de Fixação.csprojAssemblyReference.cache
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_05 - Entrada de Dados\Exercício de Fixação\Exercício de Fixação\obj\Debug\netcoreapp2.1\Exercício de Fixação.csproj.CoreCompileInputs.cache
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_05 - Entrada de Dados\Exercício de Fixação\Exercício de Fixação\obj\Debug\netcoreapp2.1\Exercício de Fixação.AssemblyInfoInputs.cache
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_05 - Entrada de Dados\Exercício de Fixação\Exercício de Fixação\obj\Debug\netcoreapp2.1\Exercício de Fixação.AssemblyInfo.cs
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_05 - Entrada de Dados\Exercício de Fixação\Exercício de Fixação\obj\Debug\netcoreapp2.1\Exercício de Fixação.dll
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Aula_05 - Entrada de Dados\Exercício de Fixação\Exercício de Fixação\obj\Debug\netcoreapp2.1\Exercício de Fixação.pdb
