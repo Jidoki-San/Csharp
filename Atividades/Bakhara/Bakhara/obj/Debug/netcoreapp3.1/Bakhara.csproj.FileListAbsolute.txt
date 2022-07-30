@@ -1,0 +1,14 @@
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Atividades\Bakhara\Bakhara\bin\Debug\netcoreapp3.1\Bakhara.exe
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Atividades\Bakhara\Bakhara\bin\Debug\netcoreapp3.1\Bakhara.deps.json
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Atividades\Bakhara\Bakhara\bin\Debug\netcoreapp3.1\Bakhara.runtimeconfig.json
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Atividades\Bakhara\Bakhara\bin\Debug\netcoreapp3.1\Bakhara.runtimeconfig.dev.json
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Atividades\Bakhara\Bakhara\bin\Debug\netcoreapp3.1\Bakhara.dll
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Atividades\Bakhara\Bakhara\bin\Debug\netcoreapp3.1\Bakhara.pdb
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Atividades\Bakhara\Bakhara\obj\Debug\netcoreapp3.1\Bakhara.csproj.AssemblyReference.cache
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Atividades\Bakhara\Bakhara\obj\Debug\netcoreapp3.1\Bakhara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Atividades\Bakhara\Bakhara\obj\Debug\netcoreapp3.1\Bakhara.AssemblyInfoInputs.cache
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Atividades\Bakhara\Bakhara\obj\Debug\netcoreapp3.1\Bakhara.AssemblyInfo.cs
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Atividades\Bakhara\Bakhara\obj\Debug\netcoreapp3.1\Bakhara.csproj.CoreCompileInputs.cache
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Atividades\Bakhara\Bakhara\obj\Debug\netcoreapp3.1\Bakhara.dll
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Atividades\Bakhara\Bakhara\obj\Debug\netcoreapp3.1\Bakhara.pdb
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Atividades\Bakhara\Bakhara\obj\Debug\netcoreapp3.1\Bakhara.genruntimeconfig.cache

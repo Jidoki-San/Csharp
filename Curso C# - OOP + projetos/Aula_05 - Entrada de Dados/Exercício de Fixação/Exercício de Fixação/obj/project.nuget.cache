@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "8gQ/r1plIubjdN7W89AoEr2xlOV6vxz/KtQx3hMaRW2B7l23aw2Zz1nWuNhC3z0uKPu4fpegkhKVY+midf++og==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guife\\OneDrive\\Documentos\\GitHub\\Csharp\\Curso C# - OOP + projetos\\Aula_05 - Entrada de Dados\\Exercício de Fixação\\Exercício de Fixação\\Exercício de Fixação.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guife\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\guife\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\guife\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\guife\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\guife\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\guife\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\guife\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

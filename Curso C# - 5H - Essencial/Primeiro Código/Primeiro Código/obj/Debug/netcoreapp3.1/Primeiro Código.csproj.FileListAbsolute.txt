@@ -1,0 +1,14 @@
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Curso C# - 5H\Primeiro Código\Primeiro Código\bin\Debug\netcoreapp3.1\Primeiro Código.exe
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Curso C# - 5H\Primeiro Código\Primeiro Código\bin\Debug\netcoreapp3.1\Primeiro Código.deps.json
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Curso C# - 5H\Primeiro Código\Primeiro Código\bin\Debug\netcoreapp3.1\Primeiro Código.runtimeconfig.json
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Curso C# - 5H\Primeiro Código\Primeiro Código\bin\Debug\netcoreapp3.1\Primeiro Código.runtimeconfig.dev.json
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Curso C# - 5H\Primeiro Código\Primeiro Código\bin\Debug\netcoreapp3.1\Primeiro Código.dll
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Curso C# - 5H\Primeiro Código\Primeiro Código\bin\Debug\netcoreapp3.1\Primeiro Código.pdb
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Curso C# - 5H\Primeiro Código\Primeiro Código\obj\Debug\netcoreapp3.1\Primeiro Código.csproj.AssemblyReference.cache
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Curso C# - 5H\Primeiro Código\Primeiro Código\obj\Debug\netcoreapp3.1\Primeiro Código.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Curso C# - 5H\Primeiro Código\Primeiro Código\obj\Debug\netcoreapp3.1\Primeiro Código.AssemblyInfoInputs.cache
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Curso C# - 5H\Primeiro Código\Primeiro Código\obj\Debug\netcoreapp3.1\Primeiro Código.AssemblyInfo.cs
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Curso C# - 5H\Primeiro Código\Primeiro Código\obj\Debug\netcoreapp3.1\Primeiro Código.csproj.CoreCompileInputs.cache
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Curso C# - 5H\Primeiro Código\Primeiro Código\obj\Debug\netcoreapp3.1\Primeiro Código.dll
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Curso C# - 5H\Primeiro Código\Primeiro Código\obj\Debug\netcoreapp3.1\Primeiro Código.pdb
+C:\Users\guife\OneDrive\Documentos\GitHub\Csharp\Curso C# - 5H\Primeiro Código\Primeiro Código\obj\Debug\netcoreapp3.1\Primeiro Código.genruntimeconfig.cache

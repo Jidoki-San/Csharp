@@ -689,23 +689,24 @@
   },
   "packageFolders": {
     "C:\\Users\\guife\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guife\\OneDrive\\Documentos\\GitHub\\Csharp\\Aula_05 - Entrada de Dados\\Exercício de Fixação\\Exercício de Fixação\\Exercício de Fixação.csproj",
+      "projectUniqueName": "C:\\Users\\guife\\OneDrive\\Documentos\\GitHub\\Csharp\\Curso C# - OOP + projetos\\Aula_05 - Entrada de Dados\\Exercício de Fixação\\Exercício de Fixação\\Exercício de Fixação.csproj",
       "projectName": "Exercício de Fixação",
-      "projectPath": "C:\\Users\\guife\\OneDrive\\Documentos\\GitHub\\Csharp\\Aula_05 - Entrada de Dados\\Exercício de Fixação\\Exercício de Fixação\\Exercício de Fixação.csproj",
+      "projectPath": "C:\\Users\\guife\\OneDrive\\Documentos\\GitHub\\Csharp\\Curso C# - OOP + projetos\\Aula_05 - Entrada de Dados\\Exercício de Fixação\\Exercício de Fixação\\Exercício de Fixação.csproj",
       "packagesPath": "C:\\Users\\guife\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guife\\OneDrive\\Documentos\\GitHub\\Csharp\\Aula_05 - Entrada de Dados\\Exercício de Fixação\\Exercício de Fixação\\obj\\",
+      "outputPath": "C:\\Users\\guife\\OneDrive\\Documentos\\GitHub\\Csharp\\Curso C# - OOP + projetos\\Aula_05 - Entrada de Dados\\Exercício de Fixação\\Exercício de Fixação\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
         "C:\\Users\\guife\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
@@ -716,6 +717,7 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
           "projectReferences": {}
         }
       },
@@ -727,18 +729,26 @@
     },
     "frameworks": {
       "netcoreapp2.1": {
+        "targetAlias": "netcoreapp2.1",
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
       }
     }
   }
